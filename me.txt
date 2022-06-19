@@ -1,0 +1,14 @@
+I was a creative and dedicated web developer who excels in optimizing the performance of user-centric, high-impact websites for nationwide and global companies. I completely revamped the face of many NFT marketing sites and switched it to React & Vue, improving site stickiness by 23%, and drastically reducing marketing expenditure.
+But today blockchain is revolutionizing industries including fintech, real estate, and supply chain management.
+Many excellent software engineers and coders are diving into blockchain development.
+So I rethought my career with blockchain, I studied and researched blockchain myself, and now I can help many clients in blockchain development with high skills.
+In the blockchain field, my top skill is smart contract by solidity & rust & Haskell.
+Smart contracts are programmed contracts that utilize execution in a distributed environment for enforceability, and these can be used to support crowdfunding, blind auctions, multi-signature wallets, and more.
+I had already built and published many fungible & non-fungible tokens with the standard smart contracts like ERC20, ERC721, ERC1155, BEP20, and CRO20 on some blockchain networks.
+I am more interested in blockchain game development than in cryptocurrencies.
+I had already developed "dice" & "zombie's war" blockchain game by solidity and javascript on bsc network.
+Unity3D is another skill that I can brag about.
+Mastering the metaverse blockchain game is my next goal.
+I will do my best for this milestone, with a burning passion for blockchain and the gaming world.
+Thanks.
+Zoran.
